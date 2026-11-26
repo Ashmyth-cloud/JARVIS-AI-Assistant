@@ -83,3 +83,7 @@ Created as a personal Python AI assistant project.
 ⸻
 
 ⭐ If you find this project interesting, consider starring the repository!
+
+
+## JARVIS GUI
+![JARVIS Dashboard](jarvis-dashboard.png)
