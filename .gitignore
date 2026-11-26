@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local speech recognition models
+offline_models/
+
+# Backup files
+gui_backup.py
+*_backup.py
+
+# IDE files
+.vscode/
+
+# Logs
+*.log
+
+# Environment secrets
+.env
